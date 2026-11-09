@@ -1,0 +1,131 @@
+/* ===================================================
+   Mobile & touch refinements (loaded last)
+=================================================== */
+
+/* Toast: fully hidden when idle (it used to leave a sliver at the screen edge) */
+.toast { opacity: 0; visibility: hidden; transform: translateY(-12px); transition: opacity 0.25s, transform 0.25s, visibility 0s 0.25s; }
+.toast.show { opacity: 1; visibility: visible; transform: translateY(0); transition: opacity 0.25s, transform 0.25s; }
+
+/* Never let long words/URLs push layout wider than the screen */
+.tool-desc, .free-tool-desc, .blog-title, .blog-excerpt, .modal-section p, .article-body, .ft-result, .faq-answer-inner { overflow-wrap: anywhere; }
+img, svg, canvas, video { max-width: 100%; }
+
+/* Solid mobile menu (no see-through text) */
+@media (max-width: 768px) {
+  .nav-links { background: var(--bg-card) !important; box-shadow: var(--shadow-md); max-height: calc(100dvh - 68px); overflow-y: auto; }
+  .nav-link { padding: 14px 16px; font-size: 1rem; width: 100%; text-align: center; }
+  .nav-cta { width: auto; margin-top: 6px; }
+
+  /* Stop iOS from zooming into inputs on focus */
+  input, select, textarea { font-size: 16px !important; }
+
+  .section-header { margin-bottom: 32px; }
+  .featured-section, .categories-section, .tools-section, .free-tools-section,
+  .compare-section, .blog-section, .testimonials-section, .faq-section { padding: 56px 0; }
+  .newsletter-card { padding: 28px 20px; }
+  .newsletter-form button { justify-content: center; }
+  .faq-question { padding: 16px 18px; }
+  .faq-item.active .faq-answer { max-height: 600px; }
+  .free-tools-grid, .tools-grid, .featured-grid { gap: 16px; }
+  .filter-bar { padding: 14px; }
+  .filter-search { min-width: 0; width: 100%; flex: 1 1 100%; }
+  .blog-card-image { height: 150px; }
+
+  /* Modal becomes a bottom sheet */
+  .modal-overlay { align-items: flex-end; padding: 0; }
+  .modal-card {
+    max-width: none; border-radius: var(--radius-xl) var(--radius-xl) 0 0; max-height: 92dvh;
+    padding: 28px 18px calc(24px + env(safe-area-inset-bottom)); transform: translateY(30px);
+  }
+  .modal-overlay.open .modal-card { transform: translateY(0); }
+  .modal-tool-header { padding-right: 40px; }
+  .modal-tool-icon { width: 52px; height: 52px; flex-shrink: 0; }
+  .modal-tool-name { font-size: 1.25rem; overflow-wrap: anywhere; }
+  .modal-cta { flex-direction: row; flex-wrap: wrap; }
+  .modal-visit-btn { flex: 1 1 100%; }
+  .modal-icon-btn { flex: 1; height: 46px; }
+
+  /* Command palette: full width, near the top */
+  .palette-overlay { padding: 12px; }
+  .palette-sub { display: none; }
+
+  .ft-row { flex-wrap: wrap; }
+  .ft-row > .ft-input, .ft-row > .ft-field { flex: 1 1 140px; min-width: 0; }
+  .ft-stat-value { font-size: 1.15rem; }
+  .pomo-time { font-size: 3.5rem; }
+  .swatch { width: calc(33.33% - 6px); min-width: 70px; }
+  .serp-title { font-size: 0.95rem; }
+
+  /* Compare table → stacked cards */
+  .table-wrap { border: none; overflow: visible; }
+  .compare-table, .compare-table tbody, .compare-table tr, .compare-table td { display: block; width: 100%; }
+  .compare-table thead { position: absolute; left: -9999px; }
+  .compare-table tr {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-lg);
+    padding: 8px 16px; margin-bottom: 14px;
+  }
+  .compare-table td {
+    display: flex; justify-content: space-between; align-items: center; gap: 16px; text-align: right;
+    padding: 10px 0; border-bottom: 1px solid var(--border);
+  }
+  .compare-table td:last-child { border-bottom: none; }
+  .compare-table td::before {
+    content: attr(data-label); color: var(--text-muted); font-size: 0.75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.05em; text-align: left; flex-shrink: 0;
+  }
+  .compare-table td[data-label="Tool"] { padding-top: 12px; }
+  .compare-table td[data-label="Tool"]::before { display: none; }
+  .compare-table tr:hover td { background: none; }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+  .navbar { padding: 0 12px; }
+  .nav-container { height: 60px; }
+  .nav-links { top: 60px; max-height: calc(100dvh - 60px); }
+  .logo-icon { width: 34px; height: 34px; }
+  .nav-logo { font-size: 1.2rem; gap: 8px; }
+  .nav-actions { gap: 6px; }
+  .search-trigger { display: none; } /* the hero search and the directory search cover this on phones */
+  .hero { padding: 84px 16px 40px; }
+  .hero-title { font-size: clamp(2rem, 9vw, 2.6rem); }
+  .search-wrapper { padding: 4px 4px 4px 14px; }
+  .search-icon { margin-right: 8px; }
+  .search-btn { padding: 11px 18px; }
+  .stat-item .stat-number { font-size: 1.7rem; }
+  .stat-item .stat-line > span:not(.stat-number) { font-size: 1.2rem; }
+  .stat-item p { font-size: 0.68rem; }
+  .container { padding: 0 16px; }
+  .featured-card, .free-tool-card { padding: 22px 18px; }
+  .newsletter-form input, .newsletter-form button { width: 100%; }
+  .back-to-top { bottom: 16px; right: 16px; width: 42px; height: 42px; }
+  .ft-stats, .ft-stats.three { grid-template-columns: repeat(2, 1fr); }
+  .ft-stats.three .ft-stat:last-child:nth-child(odd) { grid-column: 1 / -1; }
+}
+
+/* Touch devices: comfortable tap targets (~44px) */
+@media (pointer: coarse) {
+  .tag, .filter-tab, .free-filter-tab, .blog-filter-btn, .saved-toggle, .link-btn { min-height: 44px; }
+  .tag, .filter-tab, .free-filter-tab, .blog-filter-btn { padding-left: 16px; padding-right: 16px; display: inline-flex; align-items: center; }
+  .fav-btn { width: 44px; height: 44px; top: 10px; right: 10px; }
+  .icon-btn { min-width: 44px; height: 44px; }
+  .hamburger { min-width: 44px; min-height: 44px; align-items: center; justify-content: center; }
+  .modal-close { width: 44px; height: 44px; }
+  .ft-btn { min-height: 44px; }
+  .ft-btn.chip { min-height: 40px; }
+  .use-tool-btn, .tool-visit-btn { min-height: 44px; }
+  .faq-question { min-height: 52px; }
+  .ft-check { min-height: 40px; }
+  .palette-item { padding: 14px 12px; }
+}
+
+/* Short landscape phones */
+@media (max-height: 480px) and (orientation: landscape) {
+  .hero { min-height: auto; padding-top: 80px; }
+  .modal-card { max-height: 96dvh; }
+}
+
+/* Flex children with inputs must be allowed to shrink */
+.search-input, .filter-search input, .free-search input, .palette-input input, .newsletter-form input { min-width: 0; }
+.search-wrapper { max-width: 100%; }
+.search-btn { flex-shrink: 0; }

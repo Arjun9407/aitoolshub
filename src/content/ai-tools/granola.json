@@ -1,0 +1,24 @@
+{
+  "name": "Granola",
+  "category": "Productivity",
+  "desc": "AI notepad for meetings that blends your own notes with a transcript — no bot joining the call.",
+  "icon": "🥣",
+  "color": "#65a30d",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Meetings",
+    "Notes",
+    "Mac"
+  ],
+  "url": "https://granola.ai",
+  "features": [
+    "No meeting bot",
+    "Enhanced notes",
+    "Templates",
+    "Share notes",
+    "Search"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "v0 by Vercel",
+  "category": "Coding",
+  "desc": "Generate React and Tailwind UI components and full pages from prompts or screenshots.",
+  "icon": "▲",
+  "color": "#475569",
+  "pricing": "freemium",
+  "price": "Free / Premium",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "UI",
+    "React",
+    "Tailwind"
+  ],
+  "url": "https://v0.dev",
+  "features": [
+    "Prompt to UI",
+    "React + Tailwind",
+    "Image input",
+    "Deploy on Vercel",
+    "shadcn/ui"
+  ]
+}

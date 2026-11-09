@@ -1,0 +1,24 @@
+{
+  "name": "Humata",
+  "category": "Research",
+  "desc": "Ask questions of long PDFs and documents and get answers with page-level citations.",
+  "icon": "🗂️",
+  "color": "#0ea5e9",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.3,
+  "featured": false,
+  "tags": [
+    "PDF",
+    "Q&A",
+    "Citations"
+  ],
+  "url": "https://humata.ai",
+  "features": [
+    "Chat with PDFs",
+    "Citations",
+    "Summaries",
+    "Multi-doc",
+    "Export"
+  ]
+}

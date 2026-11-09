@@ -1,0 +1,44 @@
+{
+  "name": "Image Compressor",
+  "desc": "Reduce JPG, PNG and WebP file size in bulk without uploading",
+  "category": "Image",
+  "icon": "🗜️",
+  "color": "#10b981",
+  "badge": "FREE",
+  "seoTitle": "Image Compressor: Reduce JPG, PNG & WebP Size",
+  "seoDescription": "Compress images online for free. Shrink JPG, PNG and WebP files in bulk, keep good quality, and download as a ZIP. Your photos never leave your device.",
+  "keywords": [
+    "image compressor",
+    "compress image online",
+    "reduce image size",
+    "compress jpg",
+    "compress png",
+    "bulk image compressor",
+    "reduce photo size"
+  ],
+  "intro": "Make photos and graphics smaller so pages load faster and email attachments fit. Add one image or up to 100, choose the quality, and see exactly how much space you save. Files are processed on your device, never uploaded.",
+  "steps": [
+    "Drop your images into the box (up to 100 at once).",
+    "Set the quality. Around 75 to 80 percent is a good balance.",
+    "Optionally limit the maximum width for very large photos.",
+    "Click Compress, then download each file or all as a ZIP."
+  ],
+  "faq": [
+    {
+      "q": "Will it reduce image quality?",
+      "a": "JPG and WebP use lossy compression, so lower quality settings make smaller files with some loss of detail. Around 75 to 80 percent is usually hard to tell from the original."
+    },
+    {
+      "q": "Why didn't my PNG get smaller?",
+      "a": "PNG is lossless. For the biggest savings, save PNG photos as WebP or JPG. If a file can't be made smaller, the tool keeps your original."
+    },
+    {
+      "q": "Are my images uploaded?",
+      "a": "No. Compression happens inside your browser, so your photos stay private."
+    },
+    {
+      "q": "Is there a size limit?",
+      "a": "The tool sets no file size limit, but very large images need more memory, so a phone may struggle with huge batches."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Random Number Generator",
+  "desc": "Pick random numbers in any range, with or without repeats",
+  "category": "Math",
+  "icon": "🎲",
+  "color": "#f59e0b",
+  "badge": "FREE",
+  "seoTitle": "Random Number Generator: Pick Numbers Online",
+  "seoDescription": "Generate random numbers in any range, with or without repeats. Pick 1 to 1000 numbers at once. Free and uses your browser's secure random source.",
+  "keywords": [
+    "random number generator",
+    "random number picker",
+    "pick a random number",
+    "random number between",
+    "lottery number generator"
+  ],
+  "intro": "Choose a minimum, a maximum and how many numbers you want. Turn off repeats to draw unique numbers, like a raffle or lottery draw.",
+  "steps": [
+    "Enter the minimum and maximum.",
+    "Choose how many numbers to generate.",
+    "Tick 'No repeats' for unique numbers.",
+    "Click Generate and copy the result."
+  ],
+  "faq": [
+    {
+      "q": "Is it truly random?",
+      "a": "It uses your browser's cryptographically secure random generator, which is suitable for draws and games. It is not a certified lottery system."
+    },
+    {
+      "q": "Can I get numbers without repeats?",
+      "a": "Yes. Tick 'No repeats'. The range must contain at least as many numbers as you ask for."
+    }
+  ]
+}

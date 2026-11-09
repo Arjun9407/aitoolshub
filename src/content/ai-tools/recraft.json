@@ -1,0 +1,24 @@
+{
+  "name": "Recraft",
+  "category": "Image",
+  "desc": "Design-focused generator for vector art, icons and brand-consistent illustrations.",
+  "icon": "🧩",
+  "color": "#a855f7",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Vector",
+    "Icons",
+    "Brand"
+  ],
+  "url": "https://recraft.ai",
+  "features": [
+    "Vector output",
+    "Brand styles",
+    "Icon sets",
+    "Mockups",
+    "Upscale"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Warp",
+  "category": "Coding",
+  "desc": "Modern terminal with AI that turns plain English into commands and explains errors.",
+  "icon": "⌨️",
+  "color": "#0ea5e9",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Terminal",
+    "CLI",
+    "DevOps"
+  ],
+  "url": "https://warp.dev",
+  "features": [
+    "Natural language commands",
+    "Error explain",
+    "Workflows",
+    "Team sharing",
+    "Agent mode"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sourcegraph Cody",
+  "category": "Coding",
+  "desc": "Coding assistant that uses your whole codebase as context for answers, edits and refactors.",
+  "icon": "🕸️",
+  "color": "#ff5543",
+  "pricing": "freemium",
+  "price": "Free / Enterprise",
+  "rating": 4.3,
+  "featured": false,
+  "tags": [
+    "Codebase",
+    "Search",
+    "Enterprise"
+  ],
+  "url": "https://sourcegraph.com/cody",
+  "features": [
+    "Codebase context",
+    "Chat",
+    "Autocomplete",
+    "Refactoring",
+    "Enterprise controls"
+  ]
+}

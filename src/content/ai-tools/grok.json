@@ -1,0 +1,24 @@
+{
+  "name": "Grok",
+  "category": "Chatbot",
+  "desc": "xAI's conversational assistant with real-time access to posts on X and a witty personality.",
+  "icon": "⚡",
+  "color": "#64748b",
+  "pricing": "freemium",
+  "price": "Free / Premium",
+  "rating": 4.3,
+  "featured": false,
+  "tags": [
+    "Chat",
+    "Real-time",
+    "X"
+  ],
+  "url": "https://grok.com",
+  "features": [
+    "Real-time info",
+    "Image generation",
+    "Reasoning mode",
+    "X integration",
+    "Voice mode"
+  ]
+}

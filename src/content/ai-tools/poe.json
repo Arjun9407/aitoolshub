@@ -1,0 +1,24 @@
+{
+  "name": "Poe",
+  "category": "Chatbot",
+  "desc": "One app to chat with many different AI models and build your own custom bots on top of them.",
+  "icon": "🗨️",
+  "color": "#8b5cf6",
+  "pricing": "freemium",
+  "price": "Free / Subscription",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Multi-model",
+    "Bots",
+    "Chat"
+  ],
+  "url": "https://poe.com",
+  "features": [
+    "Many models",
+    "Custom bots",
+    "Compare answers",
+    "Mobile apps",
+    "Creator tools"
+  ]
+}

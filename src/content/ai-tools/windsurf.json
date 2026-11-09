@@ -1,0 +1,24 @@
+{
+  "name": "Windsurf",
+  "category": "Coding",
+  "desc": "AI-native IDE with an agent that understands your whole project and edits across files.",
+  "icon": "🏄‍♂️",
+  "color": "#06b6d4",
+  "pricing": "freemium",
+  "price": "Free / Pro",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "IDE",
+    "Agent",
+    "Code"
+  ],
+  "url": "https://windsurf.com",
+  "features": [
+    "Agentic flows",
+    "Multi-file edits",
+    "Inline chat",
+    "Autocomplete",
+    "Plugins"
+  ]
+}

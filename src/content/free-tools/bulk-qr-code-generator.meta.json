@@ -1,0 +1,43 @@
+{
+  "name": "Bulk QR Code Generator",
+  "desc": "Create many QR codes from a list of links, download as ZIP",
+  "category": "Barcode",
+  "icon": "🔳",
+  "color": "#6366f1",
+  "badge": "FREE",
+  "seoTitle": "Bulk QR Code Generator: Many QR Codes to ZIP",
+  "seoDescription": "Create many QR codes at once. Paste a list of links or text, one per line, choose a size and download all QR codes as PNG files in one ZIP. Free.",
+  "keywords": [
+    "bulk qr code generator",
+    "batch qr code generator",
+    "generate multiple qr codes",
+    "qr code generator from list",
+    "create many qr codes",
+    "mass qr code generator"
+  ],
+  "intro": "Turn a list of links, product pages or text into a set of QR codes in one go. Paste one item per line, choose the image size and error correction level, then download all the PNG files together as a ZIP.",
+  "steps": [
+    "Paste your links or text, one per line.",
+    "Choose the image size and error correction (Medium is a good default).",
+    "Click Preview to check a few codes.",
+    "Download all QR codes as a ZIP."
+  ],
+  "faq": [
+    {
+      "q": "How many QR codes can I create?",
+      "a": "Up to 300 per batch."
+    },
+    {
+      "q": "Which error correction level should I pick?",
+      "a": "Medium suits most uses. Choose High if you plan to put a logo over the code or print on rough surfaces."
+    },
+    {
+      "q": "Do the QR codes expire?",
+      "a": "No. These are static QR codes that contain your text directly, so they work forever and need no account."
+    },
+    {
+      "q": "Is my list uploaded?",
+      "a": "No. Everything is generated in your browser."
+    }
+  ]
+}

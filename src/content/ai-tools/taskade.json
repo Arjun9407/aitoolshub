@@ -1,0 +1,24 @@
+{
+  "name": "Taskade",
+  "category": "Productivity",
+  "desc": "Workspace with AI agents, projects, mind maps and automations in one place.",
+  "icon": "✅",
+  "color": "#2563eb",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Tasks",
+    "Agents",
+    "Mind Maps"
+  ],
+  "url": "https://taskade.com",
+  "features": [
+    "AI agents",
+    "Projects",
+    "Mind maps",
+    "Automations",
+    "Team chat"
+  ]
+}

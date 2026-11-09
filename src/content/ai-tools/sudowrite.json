@@ -1,0 +1,24 @@
+{
+  "name": "Sudowrite",
+  "category": "Writing",
+  "desc": "AI writing partner built for fiction authors: brainstorm, draft, rewrite and describe scenes.",
+  "icon": "📖",
+  "color": "#8b5cf6",
+  "pricing": "paid",
+  "price": "Paid plans",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Fiction",
+    "Creative",
+    "Novel"
+  ],
+  "url": "https://sudowrite.com",
+  "features": [
+    "Story engine",
+    "Describe",
+    "Rewrite",
+    "Brainstorm",
+    "Plugins"
+  ]
+}

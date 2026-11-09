@@ -1,0 +1,24 @@
+{
+  "name": "Quizlet",
+  "category": "Education",
+  "desc": "Study platform with AI-generated flashcards, practice tests and explanations.",
+  "icon": "🧠",
+  "color": "#4255ff",
+  "pricing": "freemium",
+  "price": "Free / Plus",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Study",
+    "Flashcards",
+    "Students"
+  ],
+  "url": "https://quizlet.com",
+  "features": [
+    "Flashcards",
+    "Practice tests",
+    "AI explanations",
+    "Study plans",
+    "Mobile"
+  ]
+}

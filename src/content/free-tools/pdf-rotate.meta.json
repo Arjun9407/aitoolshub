@@ -1,0 +1,34 @@
+{
+  "name": "Rotate PDF",
+  "desc": "Rotate all or selected PDF pages and save",
+  "category": "PDF",
+  "icon": "🔃",
+  "color": "#0ea5e9",
+  "badge": "FREE",
+  "seoTitle": "Rotate PDF Pages Online: Free and Private",
+  "seoDescription": "Rotate PDF pages online for free. Turn all pages or only selected ones by 90, 180 or 270 degrees and download the fixed file. No upload.",
+  "keywords": [
+    "rotate pdf",
+    "rotate pdf pages",
+    "rotate pdf online",
+    "turn pdf page",
+    "fix sideways pdf",
+    "flip pdf page"
+  ],
+  "intro": "Fix a sideways scan or an upside-down page. Rotate every page, or just the ones you choose, and download a corrected PDF.",
+  "steps": [
+    "Drop a PDF into the box.",
+    "Choose the rotation and whether it applies to all pages or selected ones.",
+    "Click Rotate and download the new PDF."
+  ],
+  "faq": [
+    {
+      "q": "Can I rotate only some pages?",
+      "a": "Yes. Choose 'Selected pages' and enter numbers like 1, 3-5."
+    },
+    {
+      "q": "Is the file uploaded?",
+      "a": "No. The change is made in your browser."
+    }
+  ]
+}

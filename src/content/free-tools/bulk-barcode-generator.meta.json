@@ -1,0 +1,43 @@
+{
+  "name": "Bulk Barcode Generator",
+  "desc": "Make hundreds of barcodes at once from a list, download as ZIP",
+  "category": "Barcode",
+  "icon": "🧾",
+  "color": "#0ea5e9",
+  "badge": "FREE",
+  "seoTitle": "Bulk Barcode Generator: Many Barcodes to ZIP",
+  "seoDescription": "Generate many barcodes at once. Paste a list of values, one per line, and download every barcode as a PNG inside one ZIP file. Free, no signup.",
+  "keywords": [
+    "bulk barcode generator",
+    "batch barcode generator",
+    "generate multiple barcodes",
+    "barcode generator from list",
+    "barcode generator excel list",
+    "mass barcode generator"
+  ],
+  "intro": "Need barcodes for a whole product list or a set of asset tags? Paste your values, one per line, pick a barcode type and the tool draws all of them. Download everything as a single ZIP of PNG images, with each file named after its value.",
+  "steps": [
+    "Copy a column from your spreadsheet and paste it into the box, one value per line.",
+    "Choose the barcode type that matches your values.",
+    "Check the preview. Any value that doesn't fit the type is listed so you can fix it.",
+    "Click download to get all barcodes as a ZIP."
+  ],
+  "faq": [
+    {
+      "q": "How many barcodes can I make at once?",
+      "a": "Up to 300 per batch. Duplicate lines are removed automatically."
+    },
+    {
+      "q": "Can I paste from Excel or Google Sheets?",
+      "a": "Yes. Copy one column of cells and paste it. Each cell becomes one line, which becomes one barcode."
+    },
+    {
+      "q": "What happens to values that are invalid?",
+      "a": "They are skipped and listed above the preview with the reason, so you can correct them and try again."
+    },
+    {
+      "q": "Is anything uploaded?",
+      "a": "No. All barcodes are made and zipped in your browser."
+    }
+  ]
+}

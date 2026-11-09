@@ -1,0 +1,24 @@
+{
+  "name": "Zapier Agents",
+  "category": "Business",
+  "desc": "Build AI agents that work across thousands of apps to handle research, outreach and ops.",
+  "icon": "🤖",
+  "color": "#ff4a00",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Agents",
+    "Automation",
+    "Apps"
+  ],
+  "url": "https://zapier.com/agents",
+  "features": [
+    "Natural-language setup",
+    "8000+ apps",
+    "Scheduled runs",
+    "Templates",
+    "Human approval"
+  ]
+}

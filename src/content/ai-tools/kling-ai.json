@@ -1,0 +1,24 @@
+{
+  "name": "Kling AI",
+  "category": "Video",
+  "desc": "Popular video generator with strong motion, character consistency and image-to-video.",
+  "icon": "🎬",
+  "color": "#0ea5e9",
+  "pricing": "freemium",
+  "price": "Free credits / Paid",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Video",
+    "Motion",
+    "Creative"
+  ],
+  "url": "https://klingai.com",
+  "features": [
+    "Text-to-video",
+    "Image-to-video",
+    "Lip sync",
+    "Motion brush",
+    "Extend clips"
+  ]
+}

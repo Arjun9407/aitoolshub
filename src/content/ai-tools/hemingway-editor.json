@@ -1,0 +1,24 @@
+{
+  "name": "Hemingway Editor",
+  "category": "Writing",
+  "desc": "Makes your writing bold and clear by flagging hard-to-read sentences and passive voice.",
+  "icon": "🖋️",
+  "color": "#f97316",
+  "pricing": "freemium",
+  "price": "Free web / Paid",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Editing",
+    "Clarity",
+    "Readability"
+  ],
+  "url": "https://hemingwayapp.com",
+  "features": [
+    "Readability grade",
+    "Adverb highlights",
+    "Passive voice",
+    "Simplify",
+    "Desktop app"
+  ]
+}

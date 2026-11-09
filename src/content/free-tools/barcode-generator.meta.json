@@ -1,0 +1,44 @@
+{
+  "name": "Barcode Generator",
+  "desc": "Create a barcode in Code 128, EAN-13, UPC and more",
+  "category": "Barcode",
+  "icon": "📊",
+  "color": "#111827",
+  "badge": "FREE",
+  "seoTitle": "Free Barcode Generator Online (PNG & SVG)",
+  "seoDescription": "Make a barcode online for free: Code 128, EAN-13, UPC-A, EAN-8, Code 39 and more. Pick colours and size, then download as PNG or SVG. No signup.",
+  "keywords": [
+    "barcode generator",
+    "free barcode generator",
+    "barcode maker",
+    "create barcode online",
+    "EAN-13 barcode generator",
+    "UPC barcode generator",
+    "Code 128 barcode generator"
+  ],
+  "intro": "This free barcode generator creates a scannable barcode from any text or number. Choose the barcode type, type your value, adjust the size and colours, and download the result as a PNG image or a sharp SVG file that stays crisp at any print size.",
+  "steps": [
+    "Choose a barcode type (Code 128 works for most text; EAN-13 and UPC-A are for retail products).",
+    "Type or paste your value. The tool tells you if it doesn't fit the chosen type.",
+    "Adjust bar width, height and colours if you like.",
+    "Download the barcode as PNG or SVG."
+  ],
+  "faq": [
+    {
+      "q": "Which barcode type should I use?",
+      "a": "Use Code 128 for general text and internal labels. Use EAN-13 or UPC-A for retail products, which usually need numbers issued by GS1. Use Code 39 for simple alphanumeric labels."
+    },
+    {
+      "q": "Is the barcode free to use commercially?",
+      "a": "The barcode image itself has no watermark and no fee. For retail products, the numbers inside EAN and UPC codes are normally licensed through GS1, so check that you have the right to use yours."
+    },
+    {
+      "q": "Does it add the check digit?",
+      "a": "Yes. For EAN-13, UPC-A and EAN-8 you can enter the digits without the last one and the tool adds the check digit for you."
+    },
+    {
+      "q": "Are my values uploaded anywhere?",
+      "a": "No. The barcode is drawn in your browser and nothing is sent to a server."
+    }
+  ]
+}

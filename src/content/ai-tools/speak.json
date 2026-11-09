@@ -1,0 +1,24 @@
+{
+  "name": "Speak",
+  "category": "Education",
+  "desc": "AI language tutor that has you speak out loud with instant, personalized feedback.",
+  "icon": "🗣️",
+  "color": "#4f46e5",
+  "pricing": "paid",
+  "price": "Subscription",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Language",
+    "Speaking",
+    "Tutor"
+  ],
+  "url": "https://speak.com",
+  "features": [
+    "Speaking practice",
+    "Instant feedback",
+    "AI tutor",
+    "Lessons",
+    "Mobile"
+  ]
+}

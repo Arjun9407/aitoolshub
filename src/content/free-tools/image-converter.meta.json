@@ -1,0 +1,40 @@
+{
+  "name": "Image Converter",
+  "desc": "Convert images between JPG, PNG and WebP in bulk",
+  "category": "Image",
+  "icon": "🔄",
+  "color": "#f59e0b",
+  "badge": "FREE",
+  "seoTitle": "Image Converter: JPG, PNG & WebP Online",
+  "seoDescription": "Convert images between JPG, PNG and WebP for free. Bulk convert many files at once, choose quality, and download as a ZIP. Nothing is uploaded.",
+  "keywords": [
+    "image converter",
+    "convert png to jpg",
+    "convert jpg to png",
+    "convert to webp",
+    "png to webp",
+    "webp to jpg",
+    "bulk image converter"
+  ],
+  "intro": "Change the format of your pictures in seconds. Convert PNG to JPG, JPG to WebP, WebP to PNG and more, one file or a hundred at a time. Transparent areas turn into a colour of your choice when saving as JPG.",
+  "steps": [
+    "Add your images.",
+    "Choose the format to convert to: JPG, PNG or WebP.",
+    "Adjust quality for JPG and WebP.",
+    "Click Convert and download the files or a ZIP."
+  ],
+  "faq": [
+    {
+      "q": "Which format should I choose?",
+      "a": "Use JPG for photos, PNG when you need transparency or sharp graphics, and WebP for the smallest files on websites."
+    },
+    {
+      "q": "What happens to transparent backgrounds?",
+      "a": "JPG can't be transparent, so transparent areas are filled with the background colour you pick (white by default). PNG and WebP keep transparency."
+    },
+    {
+      "q": "Does it convert animated GIFs?",
+      "a": "Only the first frame is converted."
+    }
+  ]
+}

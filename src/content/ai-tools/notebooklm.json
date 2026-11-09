@@ -1,0 +1,24 @@
+{
+  "name": "NotebookLM",
+  "category": "Research",
+  "desc": "Google's research notebook: upload your sources and get grounded answers, summaries and audio overviews.",
+  "icon": "📒",
+  "color": "#4285f4",
+  "pricing": "freemium",
+  "price": "Free / Plus",
+  "rating": 4.7,
+  "featured": true,
+  "tags": [
+    "Research",
+    "Sources",
+    "Audio"
+  ],
+  "url": "https://notebooklm.google",
+  "features": [
+    "Source-grounded answers",
+    "Audio overviews",
+    "Citations",
+    "Study guides",
+    "Multiple formats"
+  ]
+}

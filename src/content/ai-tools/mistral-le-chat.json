@@ -1,0 +1,24 @@
+{
+  "name": "Mistral Le Chat",
+  "category": "Chatbot",
+  "desc": "Mistral AI's assistant with fast models, web search, document upload and a strong European privacy angle.",
+  "icon": "🌬️",
+  "color": "#f97316",
+  "pricing": "freemium",
+  "price": "Free / Pro plan",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Chat",
+    "Open Models",
+    "Privacy"
+  ],
+  "url": "https://chat.mistral.ai",
+  "features": [
+    "Fast responses",
+    "Web search",
+    "Document upload",
+    "Canvas editing",
+    "Open-weight models"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bolt.new",
+  "category": "Coding",
+  "desc": "Prompt, run and deploy full-stack apps right in the browser with an AI that sets up the project for you.",
+  "icon": "⚡",
+  "color": "#2563eb",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "App Builder",
+    "Browser",
+    "Deploy"
+  ],
+  "url": "https://bolt.new",
+  "features": [
+    "In-browser dev",
+    "npm packages",
+    "Deploy",
+    "Figma import",
+    "Full-stack"
+  ]
+}

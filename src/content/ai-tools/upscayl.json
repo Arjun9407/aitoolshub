@@ -1,0 +1,24 @@
+{
+  "name": "Upscayl",
+  "category": "Image",
+  "desc": "Free, open-source desktop app that upscales low-resolution images with AI.",
+  "icon": "🔎",
+  "color": "#8b5cf6",
+  "pricing": "free",
+  "price": "Free (Open Source)",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Upscale",
+    "Open Source",
+    "Desktop"
+  ],
+  "url": "https://upscayl.org",
+  "features": [
+    "Free forever",
+    "Offline",
+    "Multiple models",
+    "Batch",
+    "Cross-platform"
+  ]
+}

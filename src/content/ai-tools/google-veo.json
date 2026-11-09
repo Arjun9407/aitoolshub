@@ -1,0 +1,24 @@
+{
+  "name": "Google Veo",
+  "category": "Video",
+  "desc": "Google DeepMind's video generation model with native audio, available through Gemini and Flow.",
+  "icon": "🎞️",
+  "color": "#4285f4",
+  "pricing": "paid",
+  "price": "Gemini / Flow plans",
+  "rating": 4.7,
+  "featured": true,
+  "tags": [
+    "Video",
+    "Audio",
+    "Google"
+  ],
+  "url": "https://deepmind.google/models/veo",
+  "features": [
+    "Text-to-video",
+    "Native audio",
+    "Image-to-video",
+    "Cinematic control",
+    "Flow editor"
+  ]
+}

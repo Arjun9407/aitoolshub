@@ -1,0 +1,24 @@
+{
+  "name": "OpusClip",
+  "category": "Video",
+  "desc": "Turns long videos into viral-ready short clips with captions and reframing.",
+  "icon": "📼",
+  "color": "#f59e0b",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Clips",
+    "Repurpose",
+    "Social"
+  ],
+  "url": "https://opus.pro",
+  "features": [
+    "Auto-clipping",
+    "Captions",
+    "Reframing",
+    "Virality score",
+    "Scheduler"
+  ]
+}

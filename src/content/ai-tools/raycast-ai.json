@@ -1,0 +1,24 @@
+{
+  "name": "Raycast AI",
+  "category": "Productivity",
+  "desc": "Launcher for Mac with built-in AI chat, quick commands and an extension store.",
+  "icon": "🚀",
+  "color": "#ef4444",
+  "pricing": "freemium",
+  "price": "Free / Pro",
+  "rating": 4.7,
+  "featured": false,
+  "tags": [
+    "Launcher",
+    "Mac",
+    "Automation"
+  ],
+  "url": "https://raycast.com",
+  "features": [
+    "AI chat",
+    "Extensions",
+    "Snippets",
+    "Clipboard history",
+    "Window mgmt"
+  ]
+}

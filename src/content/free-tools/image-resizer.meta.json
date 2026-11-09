@@ -1,0 +1,44 @@
+{
+  "name": "Image Resizer",
+  "desc": "Resize many images by width, height or percentage in your browser",
+  "category": "Image",
+  "icon": "📐",
+  "color": "#06b6d4",
+  "badge": "FREE",
+  "seoTitle": "Image Resizer: Resize Images in Bulk Online",
+  "seoDescription": "Resize images online for free. Change width and height or scale by percentage, keep proportions, and process many photos at once. No upload needed.",
+  "keywords": [
+    "image resizer",
+    "resize image online",
+    "bulk image resizer",
+    "resize photo",
+    "change image dimensions",
+    "resize jpg",
+    "resize png"
+  ],
+  "intro": "Resize one image or a whole folder in a few clicks. Set a new width or height and the other side follows automatically, scale by percentage, or enter exact dimensions. Download each result or everything as a ZIP.",
+  "steps": [
+    "Add your images.",
+    "Choose how to resize: by width, by height, by percentage, or exact size.",
+    "Pick the output format and quality.",
+    "Click Resize and download the results."
+  ],
+  "faq": [
+    {
+      "q": "Will the image be stretched?",
+      "a": "Not unless you choose Exact width × height. Resizing by width, height or percentage keeps the original proportions."
+    },
+    {
+      "q": "Can I resize many images at once?",
+      "a": "Yes, up to 100 per batch, and they can be downloaded together as a ZIP."
+    },
+    {
+      "q": "Does enlarging an image make it sharper?",
+      "a": "No. Making an image larger can't add detail, so it may look soft. Resizing down gives the best results."
+    },
+    {
+      "q": "Are my images uploaded?",
+      "a": "No. Everything is processed in your browser."
+    }
+  ]
+}

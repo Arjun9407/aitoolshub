@@ -1,0 +1,24 @@
+{
+  "name": "NotebookLM Audio Overviews",
+  "category": "Audio",
+  "desc": "Turn documents into engaging two-host podcast-style audio discussions.",
+  "icon": "🎙️",
+  "color": "#4285f4",
+  "pricing": "freemium",
+  "price": "Part of NotebookLM",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Podcast",
+    "Summaries",
+    "Learning"
+  ],
+  "url": "https://notebooklm.google",
+  "features": [
+    "Podcast-style audio",
+    "From your sources",
+    "Interactive mode",
+    "Multiple languages",
+    "Downloadable"
+  ]
+}

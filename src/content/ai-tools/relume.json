@@ -1,0 +1,24 @@
+{
+  "name": "Relume",
+  "category": "Design",
+  "desc": "AI sitemap and wireframe generator that speeds up website planning and design.",
+  "icon": "🗺️",
+  "color": "#0ea5e9",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Wireframes",
+    "Sitemap",
+    "Web"
+  ],
+  "url": "https://relume.io",
+  "features": [
+    "AI sitemaps",
+    "Wireframes",
+    "Component library",
+    "Figma export",
+    "Webflow export"
+  ]
+}

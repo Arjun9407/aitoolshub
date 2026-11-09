@@ -1,0 +1,24 @@
+{
+  "name": "n8n",
+  "category": "Business",
+  "desc": "Open, self-hostable workflow automation with powerful AI and agent nodes.",
+  "icon": "🔧",
+  "color": "#ea4b71",
+  "pricing": "freemium",
+  "price": "Free self-host / Cloud",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Automation",
+    "Self-host",
+    "Agents"
+  ],
+  "url": "https://n8n.io",
+  "features": [
+    "Self-hostable",
+    "AI agent nodes",
+    "400+ integrations",
+    "Code nodes",
+    "Templates"
+  ]
+}

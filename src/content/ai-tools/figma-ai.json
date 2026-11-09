@@ -1,0 +1,24 @@
+{
+  "name": "Figma AI",
+  "category": "Design",
+  "desc": "AI features inside Figma for generating designs, renaming layers, prototyping and more.",
+  "icon": "🎨",
+  "color": "#f24e1e",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "UI",
+    "Design",
+    "Prototyping"
+  ],
+  "url": "https://figma.com",
+  "features": [
+    "Make designs",
+    "Auto layer names",
+    "Prototype",
+    "Visual search",
+    "Dev mode"
+  ]
+}

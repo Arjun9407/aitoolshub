@@ -1,0 +1,24 @@
+{
+  "name": "Perplexity Labs",
+  "category": "Research",
+  "desc": "Research mode that builds reports, spreadsheets and dashboards from live web sources.",
+  "icon": "🧪",
+  "color": "#06b6d4",
+  "pricing": "paid",
+  "price": "Pro plans",
+  "rating": 4.4,
+  "featured": false,
+  "tags": [
+    "Research",
+    "Reports",
+    "Web"
+  ],
+  "url": "https://perplexity.ai",
+  "features": [
+    "Deep research",
+    "Reports",
+    "Cited sources",
+    "Charts",
+    "Export"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lovable",
+  "category": "Coding",
+  "desc": "Describe an app in plain English and get a working full-stack web app you can iterate on and deploy.",
+  "icon": "💜",
+  "color": "#ec4899",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.5,
+  "featured": true,
+  "tags": [
+    "App Builder",
+    "No-code",
+    "Web"
+  ],
+  "url": "https://lovable.dev",
+  "features": [
+    "Prompt to app",
+    "Supabase backend",
+    "GitHub sync",
+    "One-click deploy",
+    "Visual edits"
+  ]
+}

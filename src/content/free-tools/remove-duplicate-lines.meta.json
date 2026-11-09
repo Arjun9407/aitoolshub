@@ -1,0 +1,34 @@
+{
+  "name": "Remove Duplicate Lines",
+  "desc": "Clean a list by removing repeated lines, with optional sorting",
+  "category": "Text",
+  "icon": "🧹",
+  "color": "#14b8a6",
+  "badge": "FREE",
+  "seoTitle": "Remove Duplicate Lines Online (Free Tool)",
+  "seoDescription": "Remove duplicate lines from any list online. Trim spaces, ignore case, drop empty lines and sort A to Z. Free, instant and private.",
+  "keywords": [
+    "remove duplicate lines",
+    "duplicate line remover",
+    "remove duplicates from list",
+    "dedupe list online",
+    "delete repeated lines",
+    "sort and remove duplicates"
+  ],
+  "intro": "Paste a list of emails, keywords, URLs or names and instantly get a clean copy with every repeated line removed. Optionally trim spaces, ignore upper and lower case, remove blank lines, or sort the result.",
+  "steps": [
+    "Paste your list, one item per line.",
+    "Choose the options you want.",
+    "Copy the cleaned list."
+  ],
+  "faq": [
+    {
+      "q": "Does it keep the first or last copy?",
+      "a": "It keeps the first time each line appears and removes later copies."
+    },
+    {
+      "q": "Can it ignore capital letters?",
+      "a": "Yes. Turn on 'Ignore upper/lower case' so 'Apple' and 'apple' count as the same line."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Images to PDF",
+  "desc": "Turn JPG, PNG and other images into one PDF",
+  "category": "PDF",
+  "icon": "🖼️",
+  "color": "#8b5cf6",
+  "badge": "FREE",
+  "seoTitle": "JPG to PDF: Convert Images to PDF Free",
+  "seoDescription": "Convert JPG, PNG and other images to a PDF online for free. Put several pictures in order, choose A4 or Letter, and download. Nothing is uploaded.",
+  "keywords": [
+    "jpg to pdf",
+    "image to pdf",
+    "png to pdf",
+    "convert photos to pdf",
+    "combine images into pdf",
+    "pictures to pdf"
+  ],
+  "intro": "Make a PDF from photos, scans or screenshots. Each image becomes one page. Choose A4, US Letter or the image's own size, set a margin, reorder the pages, and download.",
+  "steps": [
+    "Drop your images into the box.",
+    "Use the arrows to set the page order.",
+    "Choose page size, orientation and margin.",
+    "Click Create PDF and download it."
+  ],
+  "faq": [
+    {
+      "q": "Which image types work?",
+      "a": "JPG and PNG are added directly. WebP, GIF, BMP and other formats your browser can open are converted automatically."
+    },
+    {
+      "q": "Will my images be shrunk?",
+      "a": "JPG and PNG are embedded without re-compression, so quality is kept."
+    },
+    {
+      "q": "Are my pictures uploaded?",
+      "a": "No. The PDF is built in your browser."
+    }
+  ]
+}

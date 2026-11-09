@@ -1,0 +1,39 @@
+{
+  "name": "PDF to JPG / PNG",
+  "desc": "Convert every PDF page into a JPG or PNG image",
+  "category": "PDF",
+  "icon": "📸",
+  "color": "#10b981",
+  "badge": "FREE",
+  "seoTitle": "PDF to JPG & PNG Converter: Free Online",
+  "seoDescription": "Convert PDF pages to JPG or PNG images online for free. Choose the quality, preview every page, and download all as a ZIP. Files stay on your device.",
+  "keywords": [
+    "pdf to jpg",
+    "pdf to png",
+    "convert pdf to image",
+    "pdf to image converter",
+    "pdf pages to images",
+    "save pdf as jpg"
+  ],
+  "intro": "Turn each page of a PDF into a picture you can share or edit. Pick JPG for smaller files or PNG for sharper text, choose the quality, and download single pages or everything as a ZIP.",
+  "steps": [
+    "Drop a PDF into the box.",
+    "Choose JPG or PNG and a quality level.",
+    "Click Convert to images.",
+    "Download single pages or all pages as a ZIP."
+  ],
+  "faq": [
+    {
+      "q": "Which quality should I choose?",
+      "a": "High (144 DPI) suits most screens. Choose Very high for printing or small text."
+    },
+    {
+      "q": "Can it read password-protected PDFs?",
+      "a": "No. Remove the password first. The tool will tell you if a file is protected."
+    },
+    {
+      "q": "Is my PDF uploaded?",
+      "a": "No. Pages are drawn in your browser."
+    }
+  ]
+}

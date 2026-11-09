@@ -1,0 +1,24 @@
+{
+  "name": "DeepSeek",
+  "category": "Chatbot",
+  "desc": "Capable open-weight reasoning and chat models available free in the browser and via a low-cost API.",
+  "icon": "🐋",
+  "color": "#3b82f6",
+  "pricing": "freemium",
+  "price": "Free / API usage",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Reasoning",
+    "Open Weights",
+    "API"
+  ],
+  "url": "https://chat.deepseek.com",
+  "features": [
+    "Reasoning mode",
+    "Open weights",
+    "Cheap API",
+    "Code help",
+    "Web search"
+  ]
+}

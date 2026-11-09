@@ -1,0 +1,24 @@
+{
+  "name": "Remove.bg",
+  "category": "Image",
+  "desc": "Remove image backgrounds in seconds with a single upload.",
+  "icon": "✂️",
+  "color": "#10b981",
+  "pricing": "freemium",
+  "price": "Free preview / Credits",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Background",
+    "Photo",
+    "E-commerce"
+  ],
+  "url": "https://remove.bg",
+  "features": [
+    "One-click removal",
+    "HD downloads",
+    "API",
+    "Batch",
+    "Plugins"
+  ]
+}

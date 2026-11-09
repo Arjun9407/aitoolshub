@@ -1,0 +1,34 @@
+{
+  "name": "Barcode Check Digit Calculator",
+  "desc": "Calculate or verify EAN-13, UPC-A, EAN-8 and GTIN-14 check digits",
+  "category": "Barcode",
+  "icon": "🔢",
+  "color": "#8b5cf6",
+  "badge": "FREE",
+  "seoTitle": "Barcode Check Digit Calculator (EAN, UPC, GTIN)",
+  "seoDescription": "Calculate the check digit for EAN-13, UPC-A, EAN-8 and GTIN-14, or verify a full barcode number. Free GS1 check digit calculator.",
+  "keywords": [
+    "check digit calculator",
+    "EAN-13 check digit calculator",
+    "UPC check digit calculator",
+    "GTIN check digit calculator",
+    "GS1 check digit",
+    "verify barcode number"
+  ],
+  "intro": "Every EAN, UPC and GTIN number ends with a check digit that catches typing mistakes. Enter the digits without the last one to calculate it, or enter the full number to check that it is valid.",
+  "steps": [
+    "Choose the barcode type.",
+    "Enter the digits without the check digit to calculate it, or the full number to verify it.",
+    "Copy the completed number."
+  ],
+  "faq": [
+    {
+      "q": "How is the check digit calculated?",
+      "a": "Digits are weighted alternately by 3 and 1 from the right, added up, and the check digit is the amount needed to reach the next multiple of 10 (the GS1 method)."
+    },
+    {
+      "q": "Does a valid check digit mean the product number is registered?",
+      "a": "No. It only shows the number is correctly formed. Registered numbers come from GS1 or your national GS1 organisation."
+    }
+  ]
+}

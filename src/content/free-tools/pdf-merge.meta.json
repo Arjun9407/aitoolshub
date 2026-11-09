@@ -1,0 +1,42 @@
+{
+  "name": "Merge PDF",
+  "desc": "Combine several PDF files into one, in any order",
+  "category": "PDF",
+  "icon": "📎",
+  "color": "#ef4444",
+  "badge": "FREE",
+  "seoTitle": "Merge PDF Files Online: Free, No Upload",
+  "seoDescription": "Combine PDF files into one document online for free. Add several PDFs, put them in order, and download the merged file. Your files never leave your device.",
+  "keywords": [
+    "merge pdf",
+    "combine pdf",
+    "join pdf files",
+    "merge pdf online free",
+    "combine pdf files into one",
+    "pdf merger"
+  ],
+  "intro": "Join multiple PDFs into a single file. Add your documents, use the arrows to set the order, and download the result. Everything runs in your browser, so contracts, invoices and personal documents are never uploaded.",
+  "steps": [
+    "Drop two or more PDF files into the box.",
+    "Use the up and down arrows to put them in the order you want.",
+    "Click Merge and download the combined PDF."
+  ],
+  "faq": [
+    {
+      "q": "Is there a limit on pages or files?",
+      "a": "The tool sets no limit, but very large PDFs need more memory, so huge merges work best on a computer."
+    },
+    {
+      "q": "Are my PDFs uploaded to a server?",
+      "a": "No. Merging happens in your browser, so your documents stay on your device."
+    },
+    {
+      "q": "Can it merge password-protected PDFs?",
+      "a": "No. Remove the password first, then merge. The tool will tell you if a file is protected."
+    },
+    {
+      "q": "Will the quality change?",
+      "a": "No. Pages are copied as they are, without re-compressing them."
+    }
+  ]
+}

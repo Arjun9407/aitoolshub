@@ -1,0 +1,24 @@
+{
+  "name": "Superhuman",
+  "category": "Productivity",
+  "desc": "Fast email client with AI drafting, summaries and follow-up reminders.",
+  "icon": "📨",
+  "color": "#7c3aed",
+  "pricing": "paid",
+  "price": "Paid plans",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Email",
+    "Speed",
+    "Drafts"
+  ],
+  "url": "https://superhuman.com",
+  "features": [
+    "AI write",
+    "Instant replies",
+    "Split inbox",
+    "Reminders",
+    "Shortcuts"
+  ]
+}

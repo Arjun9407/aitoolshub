@@ -1,0 +1,24 @@
+{
+  "name": "Semantic Scholar",
+  "category": "Research",
+  "desc": "Free AI-powered academic search with paper summaries and citation graphs.",
+  "icon": "🎓",
+  "color": "#1d4ed8",
+  "pricing": "free",
+  "price": "Free",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Academic",
+    "Papers",
+    "Free"
+  ],
+  "url": "https://semanticscholar.org",
+  "features": [
+    "Paper search",
+    "TLDR summaries",
+    "Citation graph",
+    "Alerts",
+    "API"
+  ]
+}

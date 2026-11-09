@@ -1,0 +1,24 @@
+{
+  "name": "Claude Code",
+  "category": "Coding",
+  "desc": "Anthropic's agentic coding tool that works in your terminal, IDE and the web to read, edit and run code.",
+  "icon": "🧑‍💻",
+  "color": "#d97706",
+  "pricing": "paid",
+  "price": "Included with Claude plans / API",
+  "rating": 4.8,
+  "featured": true,
+  "tags": [
+    "Agent",
+    "Terminal",
+    "Code"
+  ],
+  "url": "https://claude.com/product/claude-code",
+  "features": [
+    "Agentic coding",
+    "Terminal & IDE",
+    "Codebase understanding",
+    "Git workflows",
+    "MCP support"
+  ]
+}

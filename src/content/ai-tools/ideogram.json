@@ -1,0 +1,24 @@
+{
+  "name": "Ideogram",
+  "category": "Image",
+  "desc": "Image generator known for accurate text rendering inside images — great for posters and logos.",
+  "icon": "🔠",
+  "color": "#f43f5e",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Text in Image",
+    "Posters",
+    "Logos"
+  ],
+  "url": "https://ideogram.ai",
+  "features": [
+    "Accurate typography",
+    "Style presets",
+    "Magic prompt",
+    "Canvas",
+    "Upscale"
+  ]
+}

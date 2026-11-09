@@ -1,0 +1,24 @@
+{
+  "name": "Gamma Sites",
+  "category": "Presentation",
+  "desc": "Spin a deck into a polished microsite or document from a single prompt.",
+  "icon": "🌐",
+  "color": "#7c3aed",
+  "pricing": "freemium",
+  "price": "Part of Gamma",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Websites",
+    "Docs",
+    "Slides"
+  ],
+  "url": "https://gamma.app",
+  "features": [
+    "Prompt to site",
+    "Slides to web",
+    "Themes",
+    "Analytics",
+    "Sharing"
+  ]
+}

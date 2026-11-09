@@ -1,0 +1,24 @@
+{
+  "name": "Whisper (OpenAI)",
+  "category": "Audio",
+  "desc": "Open-source speech recognition model for accurate multilingual transcription.",
+  "icon": "👂",
+  "color": "#10b981",
+  "pricing": "free",
+  "price": "Free (Open Source)",
+  "rating": 4.7,
+  "featured": false,
+  "tags": [
+    "Transcription",
+    "Open Source",
+    "Speech"
+  ],
+  "url": "https://github.com/openai/whisper",
+  "features": [
+    "Multilingual",
+    "Open source",
+    "Runs locally",
+    "Translation",
+    "Timestamps"
+  ]
+}

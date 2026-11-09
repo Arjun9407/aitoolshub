@@ -1,0 +1,24 @@
+{
+  "name": "Krea",
+  "category": "Image",
+  "desc": "Real-time AI image generation, enhancement and upscaling with a fast, playful interface.",
+  "icon": "🎛️",
+  "color": "#84cc16",
+  "pricing": "freemium",
+  "price": "Free / Paid",
+  "rating": 4.5,
+  "featured": false,
+  "tags": [
+    "Real-time",
+    "Upscale",
+    "Creative"
+  ],
+  "url": "https://krea.ai",
+  "features": [
+    "Real-time generation",
+    "Enhancer",
+    "Pattern tools",
+    "Video",
+    "Custom training"
+  ]
+}

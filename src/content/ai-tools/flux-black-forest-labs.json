@@ -1,0 +1,24 @@
+{
+  "name": "Flux (Black Forest Labs)",
+  "category": "Image",
+  "desc": "High-quality open and commercial image models powering many apps; run via API or hosted tools.",
+  "icon": "🌲",
+  "color": "#22c55e",
+  "pricing": "freemium",
+  "price": "Open models / API",
+  "rating": 4.6,
+  "featured": false,
+  "tags": [
+    "Open Models",
+    "API",
+    "Photoreal"
+  ],
+  "url": "https://bfl.ai",
+  "features": [
+    "Photorealism",
+    "Prompt adherence",
+    "Open weights",
+    "API",
+    "Editing models"
+  ]
+}
